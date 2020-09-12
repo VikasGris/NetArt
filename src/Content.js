@@ -3,7 +3,8 @@ import './App.css';
 import {Container, Row, Col} from 'react-bootstrap';
 import { MDBContainer, MDBFooter, MDBCol, MDBRow , MDBIcon} from "mdbreact";
 // import CallIcon from '@material-ui/icons/Call';
-
+import { FaFacebook} from 'react-icons/fa';
+import { FaPhoneAlt} from 'react-icons/fa';
 
 
 class Content extends React.Component{

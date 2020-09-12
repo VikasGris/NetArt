@@ -11,7 +11,6 @@ function App() {
       <div className="gradiant">
         <Header/>
         <Content/>
-      
         <Footer/>
         </div>
     </div>
